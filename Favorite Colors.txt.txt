@@ -1,0 +1,6 @@
+red
+black
+gold
+green
+tan
+brown
